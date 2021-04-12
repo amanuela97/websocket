@@ -1,0 +1,19 @@
+{
+  "name": "Websocket",
+  "version": "1.0.0",
+  "description": "test websocket",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "keywords": [
+    "websocket"
+  ],
+  "author": "amanuel ayezabu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "socket.io": "^4.0.1"
+  }
+}
